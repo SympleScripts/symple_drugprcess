@@ -1,0 +1,10 @@
+["coffee_club"] = {
+    label = "Coffee Club Card",
+    weight = 0,
+    stack = true,
+    close = true,
+    description = "Membership card for an exclusive club.",
+    client = {
+        image = "coffee_club.png",
+    }
+},
