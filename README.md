@@ -2,6 +2,8 @@
 
 A unique FiveM script that provides an immersive drug processing system, allowing players to break down large drug bricks into individual baggies through NPC interaction.
 
+Preview : https://medal.tv/games/gta-v/clips/l2V4tpM5utq8XaYV_?invite=cr-MSw3R1osMzQ5ODgxOTk5&v=60
+
 ## Features
 
 - **Interactive NPC System**: Find the Coffee Club Card to unlock exclusive drug processing services
